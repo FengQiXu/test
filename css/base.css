@@ -1,0 +1,60 @@
+.f8{
+	font-size: 8px;
+}
+.f10{
+	font-size: 10px;
+}
+.f12{
+	font-size: 12px;
+}
+.f13{
+	font-size: 13px;
+}
+.f14{
+	font-size: 14px;
+}
+.f17{
+	font-size: 17px;
+}
+.f24{
+	font-size: 24px;
+}
+.f25{
+	font-size: 25px;
+}
+.f26{
+	font-size: 26px;
+}
+.f27{
+	font-size: 27px;
+}
+.f29{
+	font-size: 29px;
+}
+.f30{
+	font-size: 30px;
+}
+.f31{
+	font-size: 31px;
+}
+.f32{
+	font-size: 32px;
+}
+.fb{
+	font-weight: bold;
+}
+.tc{
+	text-align: center;
+}
+.fl{
+	float: left;
+}
+.w1200{
+	width: 1200px;
+}
+.ma{
+	margin: 0 auto;
+}
+.clear{
+	clear: both;
+}
